@@ -4,3 +4,5 @@
 https://snack.expo.io/@rheehot/arrogant-pizza
 
 ladash.
+
+https://ko.reactjs.org/docs/getting-started.html
