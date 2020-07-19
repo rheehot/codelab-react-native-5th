@@ -8,3 +8,6 @@ ladash.
 https://ko.reactjs.org/docs/getting-started.html
 
 https://styled-components.com/
+
+07-19
+https://reactnative.dev/docs/environment-setup
